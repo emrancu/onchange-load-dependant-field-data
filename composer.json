@@ -1,0 +1,29 @@
+{
+    "name": "ogroosoft/backpack-fields",
+    "description": "Backpack FIelds",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "OgrooSoft",
+            "email": "ogroosoft@mail.com",
+            "homepage": "https://github.com/ogroosoft"
+        }
+    ],
+    "homepage": "https://github.com/ogroosoft",
+    "keywords": ["Laravel", "Backpack", "Backpack for Laravel", "Addon", "Admin Panel"],
+    "require": {
+        "backpack/crud": "^4.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "OgrooSoft\\BackpackFields\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "OgrooSoft\\BackpackFields\\AddonServiceProvider"
+            ]
+        }
+    }
+}
