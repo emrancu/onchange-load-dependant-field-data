@@ -1,6 +1,6 @@
 <?php
 
-namespace OgrooSoft\BackpackFields;
+namespace OgrooSoft\OnchangeFieldData;
 
 use Illuminate\Support\ServiceProvider;
 

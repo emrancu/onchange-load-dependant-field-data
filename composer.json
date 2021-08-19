@@ -1,6 +1,6 @@
 {
-    "name": "ogroosoft/backpack-fields",
-    "description": "Backpack FIelds",
+    "name": "ogroosoft/onchange-load-dependant-field-data",
+    "description": "Backpack Fields",
     "license": "MIT",
     "authors": [
         {
@@ -16,13 +16,13 @@
     },
     "autoload": {
         "psr-4": {
-            "OgrooSoft\\BackpackFields\\": "src/"
+            "OgrooSoft\\OnchangeFieldData\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "OgrooSoft\\BackpackFields\\AddonServiceProvider"
+                "OgrooSoft\\OnchangeFieldData\\AddonServiceProvider"
             ]
         }
     }
