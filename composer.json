@@ -10,7 +10,7 @@
         }
     ],
     "homepage": "https://github.com/ogroosoft",
-    "keywords": ["Laravel", "Backpack", "Backpack for Laravel", "Addon", "Admin Panel"],
+    "keywords": ["Laravel", "Backpack", "Backpack for Laravel", "Addon", "Admin Panel", "Onchange Load Dependant Field Data"],
     "require": {
         "backpack/crud": "^4.1.0"
     },
