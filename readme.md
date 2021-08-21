@@ -40,7 +40,7 @@ CRUD::addField([
 ```
 
 
-##  Uninstall this package. Since it only provides one file - ```star.blade.php```, and you're no longer using that file, it makes no sense to have the package installed:
+##  Uninstall  
 ```bash
 composer remove ogroosoft/onchange-load-dependant-field-data
 ```
