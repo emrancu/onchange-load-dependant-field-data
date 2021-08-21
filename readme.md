@@ -2,7 +2,7 @@
 [![Latest Version on Packagist][ico-version]][link-packagist] 
 [![Total Downloads][ico-downloads]][link-downloads]
 
-This package provides a ```dependantFieldOptions``` field type for the [Backpack for Laravel](https://backpackforlaravel.com/) administration panel. The ```dependantFieldOptions``` field allows admins to load options from provided ```source``` through provided ```method```  depending on-change in parent/specefic field . It uses a select2, and jQuery, so it has zero external dependencies.
+This package provides a ```dependantFieldOptions``` field type for the [Backpack for Laravel](https://backpackforlaravel.com/) administration panel. The ```dependantFieldOptions``` field allows admins to load options from provided ```source``` through provided ```method```  depending on-change in parent/specefic field.
 
 ## Screenshots
 
