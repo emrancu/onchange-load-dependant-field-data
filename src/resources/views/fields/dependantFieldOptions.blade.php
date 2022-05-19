@@ -60,7 +60,7 @@
                 let options = ' <option value=""> ' + placeholder + '</option>';
 
                 data.forEach(item => {
-                    options += '<option value="' + item.id + '">' + item.verse_no + ' </option>'
+                    options += '<option value="' + item.id + '">' + item.{{$field['attribute']}} + ' </option>'
                 });
 
                 resetOptions(options);
